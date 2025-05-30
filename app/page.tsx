@@ -22,7 +22,7 @@ export default function Home() {
         </ol>
 
         <div>
-          <Typography variant="body1" gutterBottom>
+          <Typography variant="paragraph1Regular" component="p">
             body1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos
             blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur,
             neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum
