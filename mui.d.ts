@@ -22,3 +22,12 @@ declare module '@mui/material/styles' {
 declare module '@mui/material/Typography' {
     interface TypographyPropsVariantOverrides extends Record<AllVariantKeys, true> { }
 }
+declare module '@mui/material/styles' {
+    interface PaletteColor {
+        darker?: string;
+    }
+
+    interface SimplePaletteColorOptions {
+        darker?: string;
+    }
+}

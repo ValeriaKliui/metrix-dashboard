@@ -14,9 +14,13 @@ export default function Home() {
         />
         <ol>
           <li>
-            <Typography variant="h2" gutterBottom>
-              h2. Heading
+            <Typography variant="subHeading2Bold" component="h2">
+              body1. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos
+              blanditiis tenetur unde suscipit, quam beatae rerum inventore consectetur,
+              neque doloribus, cupiditate numquam dignissimos laborum fugiat deleniti? Eum
+              quasi quidem quibusdam.
             </Typography>
+
           </li>
           <li>Save and see your changes instantly.</li>
         </ol>
